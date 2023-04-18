@@ -1,1 +1,2 @@
-utility funtions for version vedio 6
+utility funtions for version for clone repo
+
