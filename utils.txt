@@ -1,2 +1,2 @@
-utility funtions for version for clone repo
+utility funtions for version for clone repos
 
