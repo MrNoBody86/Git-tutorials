@@ -1,2 +1,0 @@
-This is version for clone repo of my software in github 
-
